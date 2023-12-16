@@ -1,7 +1,4 @@
-
-
-
-### 2.1 Org Hierarchy
+# Organization Hierarchy
 
 Envizi facilitates the organization of data through a hierarchical structure, enabling the creation of groups, subgroups, locations, accounts, meters, records, and more.
 
@@ -9,7 +6,10 @@ Here is the organization hierarchy that shows `Location by Region`, `Classificat
 
 <img src="images/010-orghierarchy-1.png">
 
-### 2.2 Groups
+
+## 1. Definitions
+
+### Groups
 
 Groups are a collection of locations used for reporting or data access.
 
@@ -30,13 +30,13 @@ Here you can see the `Classification` and `Portfolio` Groups.
 You can see the Group, Subgroup, location, account and records in the Org Hierarchy here.
 <img src="images/010-orghierarchy-3.png">
 
-### 2.3 Locations
+### Locations
 
 Locations are used to describe buildings, properties, assets or sites within an Organization. An Organization can have multiple locations. Locations can also represent a virtual collection of account data.
 
 The below screenshots shows that the Account is associated with a Location.
 
-### 2.4 Accounts
+### Accounts
 
 Accounts are used to capture, store and report data from the various resources of an organization such as electricity, water, transport and etc.
 
@@ -46,18 +46,17 @@ Account is associated with specific specific `data type` and `account style`.
 The image shows the Data Type as `DIESEL TRANSPORT (MILES)` and Account style as `DIESEL TRANSPORT - MILES`
 <img src="images/112-account.png">
 
-### 2.5 Records
+### Records
 
 Records represents the actual data from the resources. Ex: The electricity consumption of a particular account for the month.
 
 The above image show the records associated with the account.
 
-
-## Organization Hierarchy Structure
+## 2. Organization Hierarchy Structure
 
 <img src="images/org-hiearchy-g.png">
 
-## Organization Hierarchy Sample
+## 3. Organization Hierarchy Sample
 
 <img src="images/201-Org-hierarcy-scope1-2.png">
 <img src="images/202-Org-Hier-S3.png">
