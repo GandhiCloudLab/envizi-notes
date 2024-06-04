@@ -1,5 +1,6 @@
 # How to create Social Metrics data into Power Report
 
+Lets create a Social metrics based data in the power Report.
 
 ## 1. Enable Social Metrics
 
@@ -19,13 +20,12 @@
 2. You can create the required fields in the account style as like in the below picture.
 
 <img src="images/image3.png">
+<img src="images/image4.png">
 
 
 ## 3. Create Account
 
 1. Create an account with the above create Account Style.
-
-<img src="images/image4.png">
 <img src="images/image5.png">
 
 
